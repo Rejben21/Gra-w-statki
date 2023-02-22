@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: fedc686afe1ced04d81c52928b4a4cf2
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Turpis
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: de16fbcf60da4e64cbe2840434454e50, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
